@@ -2,7 +2,6 @@
 
 
 ## Step 1
-### Handling Missing Data
 # Handling Missing Data
 
 - Identified missing values in the dataset.
