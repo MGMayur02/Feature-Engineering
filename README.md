@@ -25,3 +25,13 @@ It is useful for beginners in **Data Science, Machine Learning, and Feature Engi
 * **Label Encoding** – assigning numerical labels to categorical values
 * **Ordinal Encoding** – encoding ordered categories while preserving ranking information
 
+## Step 3
+# Outlier Detection
+
+* Identified extreme values in the dataset that differ significantly from normal observations.
+* Explored the impact of outliers on feature distribution and machine learning model performance.
+* Applied statistical methods such as **IQR** and **Z-Score** for detecting outliers.
+* Used visual techniques like **Boxplots** and **distribution plots** for outlier analysis.
+* Compared data before and after outlier treatment to understand its effect on the dataset.
+* Demonstrated the importance of outlier handling in feature engineering and preprocessing workflows.
+
