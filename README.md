@@ -1,5 +1,9 @@
 # Feature Engineering
 
+## Overview
+
+Feature Engineering is the process of transforming raw data into meaningful input features that improve the performance of machine learning models. It involves cleaning, selecting, transforming, and creating features from existing data so that models can better understand patterns and relationships within the dataset. This repository covers essential feature engineering techniques such as **missing value handling, encoding categorical variables, outlier detection, feature scaling, feature transformation, and feature selection**. These methods help convert real-world messy data into structured, model-ready data for building accurate and reliable machine learning solutions.
+
 
 ## Step 1
 # Handling Missing Data
