@@ -40,5 +40,6 @@ It is useful for beginners in **Data Science, Machine Learning, and Feature Engi
 * Demonstrated the importance of outlier handling in feature engineering and preprocessing workflows.
 
 # Datasets
-- Bengaluru House Data: [https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data]('https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data')
-
+- Bengaluru House Data: [https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
+- Employee Attrition Dataset: [https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset](https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset)
+- Titanic Dataset: [https://www.kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
