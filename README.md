@@ -39,6 +39,15 @@ It is useful for beginners in **Data Science, Machine Learning, and Feature Engi
 * Compared data before and after outlier treatment to understand its effect on the dataset.
 * Demonstrated the importance of outlier handling in feature engineering and preprocessing workflows.
 
+# Tools And Libraries
+
+### - Python
+### - Pandas
+### - NumPy
+### - Matplotlib
+### - Seaborn
+### - Scikit-learn
+
 # Datasets
 - Bengaluru House Data: [https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
 - Employee Attrition Dataset: [https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset](https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset)
