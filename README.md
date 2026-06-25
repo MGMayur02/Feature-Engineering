@@ -39,6 +39,17 @@ It is useful for beginners in **Data Science, Machine Learning, and Feature Engi
 * Compared data before and after outlier treatment to understand its effect on the dataset.
 * Demonstrated the importance of outlier handling in feature engineering and preprocessing workflows.
 
+## Step 4
+# Feature Transformation
+
+* Feature Transformation is used to modify numerical features into a more suitable form for machine learning models.
+* It helps reduce skewness, stabilize variance, and improve the distribution of data.
+* Common transformation techniques include **Log Transformation**, **Reciprocal Transformation**, **Square Root Transformation**, and **Exponential Transformation**.
+* These methods are especially useful when data is highly skewed or does not follow a normal distribution.
+* Feature transformation can improve model performance by making patterns in the data easier to learn.
+* It is an important step in feature engineering and data preprocessing workflows.
+
+
 # Tools And Libraries
 
 ### - Python
