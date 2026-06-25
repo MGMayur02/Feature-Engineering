@@ -49,6 +49,16 @@ It is useful for beginners in **Data Science, Machine Learning, and Feature Engi
 * Feature transformation can improve model performance by making patterns in the data easier to learn.
 * It is an important step in feature engineering and data preprocessing workflows.
 
+## Step 5
+# Feature Scaling
+
+* Feature Scaling is used to bring numerical features to a similar range so that no variable dominates others because of its larger magnitude.
+* It is an important preprocessing step for machine learning algorithms that are sensitive to feature values, such as KNN, SVM, and Gradient Descent-based models.
+* Common feature scaling techniques include **Standardization**, **Normalization (Min-Max Scaling)**, **Robust Scaling**, and **Max Absolute Scaling**.
+* Scaling helps improve model convergence, training efficiency, and overall performance.
+* It also makes distance-based and optimization-based algorithms more stable and reliable.
+* Feature Scaling is a key part of feature engineering and data preprocessing in machine learning workflows.
+
 
 # Tools And Libraries
 
